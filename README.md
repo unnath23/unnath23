@@ -1,41 +1,48 @@
-# Hi 👋 I'm Unnath
+# Hi, I'm Unnath 👋
 
-🎓 Final Year AIML Student
-🤖 Interested in Machine Learning & AI
-💻 Building ML projects using Python, Scikit-learn and Streamlit
+Artificial Intelligence & Machine Learning Student  
+Passionate about Machine Learning, NLP and Data Science.
 
----
-
-## 🚀 Skills
-
-* Python
-* Machine Learning
-* Data Analysis
-* Pandas
-* NumPy
-* Scikit-learn
-* Streamlit
-* Git & GitHub
-
----
-
-## 📂 Projects
+## Projects
 
 ### Customer Churn Prediction
+Machine learning model to predict telecom customer churn using Logistic Regression and Random Forest.
 
-Machine Learning project to predict telecom customer churn using Logistic Regression and Random Forest.
-
-🔗 Project Link:
+Repository:
 https://github.com/unnath23/customer-churn-prediction
 
----
 
-## 📊 GitHub Stats
+### Fake News Detection using NLP
+NLP model using TF-IDF and Naive Bayes to classify news articles as real or fake.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=unnath23\&show_icons=true\&theme=dark)
+Repository:
+https://github.com/unnath23/fake-news-detection
 
----
 
-## 🔥 Most Used Languages
+## Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unnath23\&layout=compact\&theme=dark)
+Python  
+Machine Learning  
+Scikit-learn  
+Pandas  
+NumPy  
+Natural Language Processing  
+Streamlit  
+
+
+## Currently Learning
+
+Machine Learning  
+Deep Learning  
+Recommendation Systems
+
+
+## Connect with me
+
+LinkedIn  
+https://linkedin.com/in/unnathmgangatkar
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnath23&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unnath23&layout=compact)
